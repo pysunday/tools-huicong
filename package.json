@@ -1,0 +1,14 @@
+{
+  "name": "huicong",
+  "type": "tools",
+  "version": "1.0.0",
+  "description": "慧聪网",
+  "bin": [
+    "huicong"
+  ],
+  "keywords": [
+    "sunday",
+    "tools"
+  ],
+  "author": "ct"
+}
