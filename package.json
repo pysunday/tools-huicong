@@ -2,7 +2,7 @@
   "name": "huicong",
   "type": "tools",
   "version": "1.0.0",
-  "description": "慧聪网",
+  "description": "慧聪网供应商信息采集",
   "bin": [
     "huicong"
   ],

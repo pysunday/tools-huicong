@@ -3,7 +3,7 @@ import argparse
 
 CMDINFO = {
     "version": '0.0.1',
-    "description": "慧聪网用户信息采集",
+    "description": "慧聪网供应商信息采集",
     "epilog": """
 使用案例:
     %(prog)s -l

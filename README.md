@@ -10,7 +10,7 @@
  $ huicong -h
  usage: huicong [-v] [-h] [-t TYPENAME] [-l] [-r RANGE]
 
-慧聪网用户信息采集
+慧聪网供应商信息采集
 
 Optional:
   -v, --version                 当前程序版本
@@ -25,3 +25,7 @@ Optional:
     huicong -r 1-10
     huicong
 ```
+
+## 数据结果
+
+![数据结果示例](./images/datas.png)
